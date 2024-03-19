@@ -2,7 +2,7 @@
 
 # Proyecto Ghostbuster
 
-![Ghostbuster Logo](https://ideogram.ai/api/images/direct/3wpm_3RJR0mCf8uIl1u-ig.png)
+![Ghostbuster Logo](https://drive.google.com/file/d/1GwV2IjtWndknqSdn-WkW-UwM7IfM-FS4/view?usp=sharing)
 
 ## Descripción
 Ghostbuster es un juego desarrollado en Java con el framework LibGDX. El objetivo del juego es atrapar fantasmas mientras se evitan los fantasmas malos. Utiliza controles simples de izquierda y derecha para mover al atrapador de fantasmas y atrapar la mayor cantidad de fantasmas posible para obtener la puntuación más alta.
