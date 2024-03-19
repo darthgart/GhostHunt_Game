@@ -1,7 +1,4 @@
-# GhostHunt_Game
-
-# Proyecto Ghostbuster
-
+# GHOSTHUNT GAME (CAZA FANTASMAS)
 ![Ghostbuster Logo](assets/mainmenu.png)
 
 ## Descripción
