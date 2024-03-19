@@ -14,7 +14,7 @@ Ghostbuster es un juego desarrollado en Java con el framework LibGDX. El objetiv
 
 ## Cómo jugar
 1. Descarga el archivo ZIP del repositorio o clona el repositorio utilizando Git.
-2. Importa el proyecto en tu entorno de desarrollo preferido (Eclipse, IntelliJ, etc.).
+2. Importa el proyecto en tu entorno de desarrollo preferido (Android Studio, Eclipse, IntelliJ, etc.).
 3. Ejecuta el proyecto y disfruta del juego.
 
 ## Tecnologías utilizadas
@@ -26,7 +26,7 @@ Ghostbuster es un juego desarrollado en Java con el framework LibGDX. El objetiv
 Las contribuciones son bienvenidas. Si quieres mejorar el juego, corrige errores o añade nuevas características, ¡no dudes en enviar un pull request!
 
 ## Autores
-Este proyecto fue desarrollado por [Tu Nombre](https://github.com/darthgart).
+Este proyecto fue desarrollado por [DARTHGART](https://github.com/darthgart).
 
 ## Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
